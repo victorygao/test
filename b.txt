@@ -1,1 +1,2 @@
-1.1 make some chang
+1.1 make some change
+1.2 make some change to test rebase
