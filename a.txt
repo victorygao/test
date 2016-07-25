@@ -3,3 +3,4 @@
 3+3==6;
 master write 4+4==8;
 branch 1.2, first write.
+branch 1.2, second write.
