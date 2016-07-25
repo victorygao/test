@@ -5,4 +5,4 @@ master write 4+4==8;
 branch 1.2, first write.
 branch 1.2, second write.
 branch 1.2-self,checkout from 1.2
-
+project test2 try to test rebase.
